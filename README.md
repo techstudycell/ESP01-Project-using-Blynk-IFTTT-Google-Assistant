@@ -120,7 +120,9 @@ Otherwise, you refer to this circuit to program the ESP-01. During programming, 
 
 ## Code for This ESP-01 Home Automation Project
 First, download the code from the following link.
-Download the Source Code
+
+https://github.com/techstudycell/ESP01-Project-using-Blynk-IFTTT-Google-Assistant/tree/main/Code/Code_ESP01_Blynk2_2Relay_Button_NEW
+
 You have to keep all the 10 files in the same folder.
 1. Open the .ino file in Arduino IDE.
 2. In the code, you have to update the BLYNK_TEMPLATE_ID and BLYNK_DEVICE_NAME.
